@@ -1,1 +1,1 @@
-DATABASE_URL = "postgresql+asyncpg://postgres:root@localhost/postgres"
+DATABASE_URL = "postgresql+asyncpg://postgres:root@localhost/pg2"
